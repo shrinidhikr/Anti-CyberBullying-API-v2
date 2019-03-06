@@ -1,4 +1,4 @@
-# Anti-CyberBullying-v2
+# Anti-CyberBullying-API-v2
 
 **Created an API used to detect and avoid abusive contents/comments/posts on various social media and chatting platforms.**
 
