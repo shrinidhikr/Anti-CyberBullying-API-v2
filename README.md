@@ -8,4 +8,4 @@
 * Created a simple web-page as UI for testing and making queries to the API. 
 * Built a simple chat app using Android Studio and Firebase Realtime Database to demonstrate the application and use of our API.
 
-API Link: https://pesanticyber.herokuapp.com/?query="//YOUR COMMENT HERE//"
+API Link: https://pesanticyber.herokuapp.com/?query=" #YOUR COMMENT HERE# "
