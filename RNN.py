@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  3 17:28:39 2019
-
-@author: sneha
-"""
-
 from keras.models import Model
 from keras.layers import LSTM, Activation, Dense, Dropout, Input, Embedding
 
